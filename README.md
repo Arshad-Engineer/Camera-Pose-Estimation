@@ -28,7 +28,9 @@ The intrinsic matrix of the camera can be found here.
 
 This projects consists of the following code files
 + Problem #1:
-    1. Problem1.py
+    1. Code: Problem1.py
+    2. Data: project2.avi, K_matrix
+    3. Results (video marked with lines, and corners, pose estimatin plots)
 
 ## B. Modification to the given dataset/video/image:
 - None
