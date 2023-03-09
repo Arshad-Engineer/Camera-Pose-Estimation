@@ -2,6 +2,22 @@
 # ENPM673 – Perception for Autonomous Robots
 
 # Project 2
+Problem 1 [70 pts]:
+In this problem, you will perform camera pose estimation using homography. Given this video your
+task is to compute the rotation and translation between the camera and a coordinate frame whose
+origin is located on any one corner of the sheet of paper.
+In order to do so, you must:
+● Design an image processing pipeline to extract the paper on the ground and then extract all
+of its corners using the Hough Transformation technique .
+● Once you have all the corner points, you will have to compute homography between real
+world points and pixel coordinates of the corners. You must write your own function to
+compute homography.
+● Decompose the obtained homography matrix to get the rotation and translation
+Note: If you decide to resize the image frames, you need to accordingly modify your intrinsic matrix
+too. Refer to this discussion.
+Data:
+The dimensions of the paper is 21.6 cm x 27.9 cm.
+The intrinsic matrix of the camera can be found here.
 
 ## A. File Structure
 
