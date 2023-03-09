@@ -19,6 +19,9 @@ too. Refer to this discussion.
 The dimensions of the paper is 21.6 cm x 27.9 cm.
 The intrinsic matrix of the camera can be found here.
 
+![Lines_Detected](https://user-images.githubusercontent.com/112987383/223968597-0bca53fc-fa3a-47a6-824a-ed909efcc81c.jpg)
+
+
 ## A. File Structure
 
 This projects consists of the following code files
