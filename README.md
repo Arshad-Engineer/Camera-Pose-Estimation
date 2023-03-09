@@ -22,6 +22,8 @@ The intrinsic matrix of the camera can be found here.
 ![Lines_Detected](https://user-images.githubusercontent.com/112987383/223968597-0bca53fc-fa3a-47a6-824a-ed909efcc81c.jpg)
 
 
+
+
 ## A. File Structure
 
 This projects consists of the following code files
@@ -55,3 +57,4 @@ This projects consists of the following code files
 
 ## E. Results
 + On running each of the proframs, the output either pops out a plot or a video in individual window. The outputs can be correlated with the outputs shown in the report.
+![image](https://user-images.githubusercontent.com/112987383/223970502-88df0471-8055-4947-92d6-2c6147200acf.png)
