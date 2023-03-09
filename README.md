@@ -27,8 +27,6 @@ The intrinsic matrix of the camera can be found here.
 This projects consists of the following code files
 + Problem #1:
     1. Problem1.py
-+ Problem #2:
-    1. Problem2.py
 
 ## B. Modification to the given dataset/video/image:
 - None
@@ -54,9 +52,6 @@ This projects consists of the following code files
 + The program will run for 1-2 mins, after which the camera pose estimation plots, number of lines plots are displayed.
 + The file - "HomographY_check", also gets generated. This is a text file to cross-check the generated matrix.
 + ---------
-+ Problem2:
-+ Run the program "Problem2.py" to check the outputs.
-+ The panoramic image stiching given four images will be displayed.
 
 ## E. Results
 + On running each of the proframs, the output either pops out a plot or a video in individual window. The outputs can be correlated with the outputs shown in the report.
